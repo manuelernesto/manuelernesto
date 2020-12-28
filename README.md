@@ -1,16 +1,23 @@
+## Manuel Ernesto - @manuelernest0
 ### Hi there 👋🏿
 
-<!--
-**manuelernesto/manuelernesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```kotlin
+object Manuel {
+ val name = "Manuel Ernesto"
+ 
+ val primarySkillset = listOf("BackEnd", "Android")
+ val languages = listOf("Kotlin", "Java")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ val contact = "@manuelernest0".apply {
+   twitter = this
+   linkedin = this
+   instagram = this
+ }
+
+ val website = "https://manuelernesto.github.io/"
+ val medium = "https://medium.com/@manuelernesto"
+
+}
+```
+
