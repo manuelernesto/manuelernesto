@@ -17,7 +17,6 @@ object Manuel {
 
  val website = "https://manuelernesto.github.io/"
  val medium = "https://medium.com/@manuelernesto"
-
 }
 ```
 
