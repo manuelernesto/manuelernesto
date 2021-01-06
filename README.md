@@ -13,10 +13,10 @@ object Manuel {
    twitter = this
    linkedin = this
    instagram = this
+   medium = this
  }
 
  val website = "https://manuelernesto.github.io/"
- val medium = "https://medium.com/@manuelernesto"
 }
 ```
 
