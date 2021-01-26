@@ -6,7 +6,7 @@
 object Manuel {
  val name = "Manuel Ernesto"
  
- val primarySkillset = listOf("BackEnd", "Android")
+ val primarySkillset = listOf("Back-End", "Android")
  val languages = listOf("Kotlin", "Java")
 
  val contact = "@manuelernest0".apply {
