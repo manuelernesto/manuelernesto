@@ -1,6 +1,12 @@
-## Manuel Ernesto - @manuelernest0
-### Hi there 👋🏿
+<h3 align="center">👋🏿 Hi there! I'm Manuel Ernesto</h3>
+<p align="center">
+  <a href="https://twitter.com/manuelernest0/">Twitter</a> •
+  <a href="https://manuelernest0.medium.com/">Medium</a> •
+  <a href="https://speakerdeck.com/manuelernest0">Speaker Deck</a> •
+  <a href="https://www.youtube.com/manuelernesto">Youtube</a>
+</p>
 
+---
 
 ```kotlin
 object Manuel {
@@ -16,8 +22,6 @@ object Manuel {
    instagram = this
    medium = this
  }
-
- val website = "https://manuelernesto.github.io/"
 }
 ```
 
