@@ -14,7 +14,6 @@ object Manuel {
  
  val primarySkillset = listOf("Back-End", "Android")
  val languages = listOf("Kotlin", "Java")
- val learning = listOf("Go", "React")
 
  val contact = "@manuelernest0".apply {
    twitter = this
