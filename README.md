@@ -10,17 +10,18 @@
 
 ```kotlin
 object Manuel {
- val name = "Manuel Ernesto"
- 
- val primarySkillset = listOf("Back-End", "Android")
- val languages = listOf("Kotlin", "Java")
+  val name = "Manuel Ernesto"
 
- val contact = "@manuelernest0".apply {
-   twitter = this
-   linkedin = this
-   instagram = this
-   medium = this
- }
+  val primarySkillset = listOf("Back-End", "Android")
+  val languages = listOf("Kotlin", "Java")
+  val learning = listOf("Go", "Google Cloud", "K8s")
+
+  val contact = "@manuelernest0".apply {
+    twitter = this
+    instagram = this
+    medium = this
+  }
+
 }
 ```
 
