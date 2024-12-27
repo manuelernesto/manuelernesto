@@ -1,9 +1,10 @@
 <h3 align="center">👋🏿 Hi there! I'm Manuel Ernesto</h3>
 <p align="center">
-  <a href="https://twitter.com/manuelernest0/">Twitter</a> •
-  <a href="https://manuelernest0.medium.com/">Medium</a> •
-  <a href="https://speakerdeck.com/manuelernest0">Speaker Deck</a> •
-  <a href="https://www.youtube.com/manuelernesto">Youtube</a>
+  <a href="https://www.linkedin.com/in/manuelernesto/" target="_blank">Linkedin</a> •
+  <a href="https://twitter.com/manuelernest0/"  target="_blank">Twitter</a> •
+  <a href="https://manuelernest0.medium.com/"  target="_blank">Medium</a> •
+  <a href="https://speakerdeck.com/manuelernest0"  target="_blank">Speaker Deck</a> •
+  <a href="https://www.youtube.com/manuelernesto"  target="_blank">Youtube</a>
 </p>
 
 ---
